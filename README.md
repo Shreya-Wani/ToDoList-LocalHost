@@ -41,7 +41,6 @@ todo-list/
 
 ## Future Improvements
 
-- Make the layout responsive for mobile and tablet devices
 - Add the ability to edit tasks
 - Add filter options like All, Completed, and Pending
 - Host the project live using GitHub Pages
