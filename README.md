@@ -2,6 +2,8 @@
 
 This is a simple and clean To-Do List web application built using HTML, CSS, and JavaScript. It lets you add, complete, and delete tasks easily. All tasks are saved in your browser using localStorage, so they remain even after refreshing the page.
 
+🔗 **Live Demo:** [Click here to view](https://shreya-wani.github.io/ToDoList-LocalHost/)
+
 ## Features
 
 - Add new tasks by clicking the button or pressing the Enter key
